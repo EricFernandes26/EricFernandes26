@@ -1,7 +1,8 @@
 # Hey 👋
--I am Eric Fernandes
--I am a network student at SENAI of informatics
+-I am Eric Pereira
+-I graduated from the SENAI institution in the computer networks technical course
+-I'm a dba 
 
 Talk to me for my linkedin:
-https://www.linkedin.com/in/eric-fernandes-pereira-06b37b20a
+linkedin.com/in/eric-fernandes-pereira
 
