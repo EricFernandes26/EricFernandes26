@@ -31,22 +31,6 @@ Expert-level knowledge and hands-on experience with:
 - **NoSQL Databases:** DynamoDB, MongoDB
 - Database provisioning, patching, backup strategies, disaster recovery planning, and performance monitoring.
 
-## 🔄 Disaster Recovery (DR) in AWS
-
-### ✅ Real-Time Server Replication
-- Utilized **AWS Elastic Disaster Recovery (AWS DRS)** for continuous replication of on-premises and cloud servers, enabling rapid recovery in disaster scenarios.
-
-### ✅ Backup Strategy
-- Implemented backups and snapshots using **Amazon S3**, **AWS Backup**, and **native database snapshots** to add multiple recovery layers.
-
-### ✅ Resilient DR Architectures
-- Designed strategies using **Pilot Light**, **Warm Standby**, and **Multi-Site Active/Active** models.
-- Defined **RTO** and **RPO** aligned with client requirements for service continuity.
-
-### ✅ Multi-Region Resilience
-- Planned and executed region-based failover simulations and recovery testing.
-- Ensured high availability and fast failover in case of major outages or regional failures.
-
 ---
 
 ## 📫 Let’s Connect
